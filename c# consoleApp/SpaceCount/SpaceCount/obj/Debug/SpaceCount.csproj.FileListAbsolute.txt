@@ -1,0 +1,6 @@
+C:\Users\Fujitsu\source\repos\SpaceCount\SpaceCount\bin\Debug\SpaceCount.exe.config
+C:\Users\Fujitsu\source\repos\SpaceCount\SpaceCount\bin\Debug\SpaceCount.exe
+C:\Users\Fujitsu\source\repos\SpaceCount\SpaceCount\bin\Debug\SpaceCount.pdb
+C:\Users\Fujitsu\source\repos\SpaceCount\SpaceCount\obj\Debug\SpaceCount.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\SpaceCount\SpaceCount\obj\Debug\SpaceCount.exe
+C:\Users\Fujitsu\source\repos\SpaceCount\SpaceCount\obj\Debug\SpaceCount.pdb

@@ -1,0 +1,7 @@
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\obj\Debug\reverseString.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\obj\Debug\reverseString.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Fujitsu\Desktop\c# consoleApp\tersString\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

@@ -1,0 +1,14 @@
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\bin\Debug\CountLetters.exe.config
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\bin\Debug\CountLetters.exe
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\obj\Debug\CountLetters.csprojAssemblyReference.cache
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\obj\Debug\CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\obj\Debug\CountLetters.exe
+C:\Users\Fujitsu\source\repos\CountLetters\CountLetters\obj\Debug\CountLetters.pdb
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\bin\Debug\CountLetters.exe.config
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\bin\Debug\CountLetters.exe
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\obj\Debug\CountLetters.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\obj\Debug\CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\obj\Debug\CountLetters.exe
+C:\Users\Fujitsu\Desktop\c# consoleApp\CountLetters\CountLetters\obj\Debug\CountLetters.pdb
